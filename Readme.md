@@ -1,4 +1,5 @@
 # WikipediaAlbumArtScraper
 
+A python scraper capable to download all the album artworks stored on Wikipedia.
 
-![](https://i.redd.it/800te2wai2i01.png)
+![](https://i.imgur.com/VxHQxWs.jpg)
